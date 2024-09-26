@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home{
+    background-color: azure;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+pa{
+    padding: 10px;
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+}
+pa{
+    font-size: 20px;
+    font-family: "Dancing Script", cursive;
+}
+.im{
+    padding-bottom: 20%;
+}
+.midle-east{
+    text-align: center;
+    padding: 100px;
+}
+.midle{
+    padding: 30px;
+}
+.midle h2{
+    padding-top: 100px;
+}
+.yah{
+    padding: 100px;
+}
+.midle-image{
+    border-radius: 50%;
+    float: left;
+    width: 300px;
+    margin-right: -100px;
+    padding-bottom: 20px;
+}
+.midle-third{
+    float: right;
+    width: 300px;
+}
+.midle-four{
+    padding: 50px;
+    margin: 20px;
+}
+.help{
+    text-align: center;padding: 10px;
+}
+.help h3{
+    padding: 20px;
+}
+.btn{
+    background-color: rgb(216, 255, 242);
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+    padding: 15px 32px;
+}
+.btn a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.btn:hover:hover{
+    background-color: rgb(218, 254, 231);
+}
+.footer{
+    text-align: center;
+}
+.footer ul{
+    display: inline-block;
+    background-color: azure;
+    width: 100%;
+    height: 20vh;
+}
+.footer ul li{
+    display: inline-block;
+    padding: 20px;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: black;
+}
+.footer p{
+   padding-bottom: -50px;
+   font-weight: 100;
+}
+
+.footer ul li a:hover{
+    color: rgb(163, 203, 244);
+}
